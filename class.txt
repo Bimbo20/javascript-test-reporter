@@ -1,13 +1,14 @@
-1  Rouge
-2  Bleu
-3  Vert
-4  Jaune
-5  Orange
-6  Violet
-7  Rose
-8  Marron
-9  Gris
-10  Blanc
-11  Noir
-12  Turquoise
-13  Beige
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
+
